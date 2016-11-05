@@ -1,4 +1,4 @@
-https://travis-ci.org/vjso/SecurityUtilities.svg?branch=master
+[![Build Status](https://travis-ci.org/vjso/SecurityUtilities.svg?branch=master)](https://travis-ci.org/vjso/SecurityUtilities)
 
 # SecurityUtilities
 
