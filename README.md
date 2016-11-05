@@ -1,3 +1,5 @@
+https://travis-ci.org/vjso/SecurityUtilities.svg?branch=master
+
 # SecurityUtilities
 
 Security Utilities provide utility classes to encode password using bcrypt password hashing algorithm.
