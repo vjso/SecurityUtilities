@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/vjso/SecurityUtilities.svg?branch=master)](https://travis-ci.org/vjso/SecurityUtilities)
+[![codecov](https://codecov.io/gh/vjso/SecurityUtilities/branch/master/graph/badge.svg)](https://codecov.io/gh/vjso/SecurityUtilities)
 
 # SecurityUtilities
 
