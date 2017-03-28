@@ -33,7 +33,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
  * 
  * @author Vijayanand Sodadasi
  * @since 1.0
- * @version 1.0
+ * @version 1.1
  *
  */
 public class SecurityUtilities {
@@ -49,6 +49,8 @@ public class SecurityUtilities {
 	public static String getSalt() {
 		return BCrypt.gensalt(LOG_ROUNDS, random);
 	}
+
+	//Adding a comment to trigger a new build
 	
 	/**
 	 * Generates an encoded password for the given raw password string
