@@ -69,7 +69,9 @@ public class SecurityUtilities {
 	 * @param rawPassword - the raw password to encode
 	 * @param encodedPassword - the encoded password from the storage
 	 * @return true if the raw password, after encoding, matches the encoded password from storage
+	 *
 	 */
+	
 	public static boolean matches(String rawPassword, String encodedPassword) {
 		return encoder.matches(rawPassword, encodedPassword);
 	}
